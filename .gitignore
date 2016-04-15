@@ -1,4 +1,4 @@
-.cproject
-.project
-.o
-.d
+*.cproject
+*.project
+*.o
+*.d
